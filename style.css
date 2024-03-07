@@ -1,0 +1,10 @@
+#pokemonS{
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally */
+      width: 250px;
+      height: auto;
+}
+
+.alignm{
+    text-align: center;
+}
